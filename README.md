@@ -1,4 +1,4 @@
-# Project Title : RAG using FAISS with LLM GooglePalm  (Langhain & Huggingface)
+# Project Title : RAG using FAISS with LLM GooglePalm  (Langchain & Huggingface)
 ## Understanding the dataset
 This project explores the retrieval-augmented generation (RAG) , leveraging the power of FAISS (Facebook AI Similarity Search) and Google PaLM, a state-of-the-art large language model (LLM) from Google AI. It utilizes the Langchain library for efficient retrieval and the Hugging Face Transformers library for seamless integration with PaLM.
 
